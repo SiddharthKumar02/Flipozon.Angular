@@ -12,7 +12,8 @@
     {"name":"b5","price":"15","image":"images/b5.jpeg"},
     {"name":"b6","price":"15","image":"images/b6.jpeg"},
     {"name":"b7","price":"15","image":"images/b7.jpeg"},
-    {"name":"myBook","price":"10","image":"images/b8.jpeg"}
+    {"name":"myBook","price":"10","image":"images/b8.jpeg"},
+    {"name":"102","price":"20","image":"123"}
   ],
   "Clothes": [
     {"name": "c1", "price": "111", "image": "images/c1.jpeg"},
