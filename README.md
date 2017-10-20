@@ -1,5 +1,5 @@
 <h1>About:</h1>
-<p>A simple online shopping webpage made by AngularJS and HTML.</p>
+<p>A very simple online shopping webpage made by AngularJS and HTML.</p>
 <br>
 
 <h1> Local Setup Guide </h1>
