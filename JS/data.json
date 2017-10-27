@@ -2,7 +2,8 @@
   "users": [
     {"username": "test", "password": "111"},
     {"username": "admin", "password": "142"},
-    {"username": "gopal", "password": "154"}
+    {"username": "gopal", "password": "154"},
+    {"username": "sid", "password": "123"},
   ],
   "Books": [
     {"name":"Working on my Novel","price":"111","image":"images/b1.jpeg"},
