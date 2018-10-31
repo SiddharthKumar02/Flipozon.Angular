@@ -27,4 +27,4 @@ password: 111
 ```
 
 <h1>Contribution:</h1>
-<p>You are most welcome to contribute to this page :D! Just make changes and send a PR with proper commit. If you find an issue please do report it :) </p>
+<p>You are most welcome to contribute to this page! Just make changes and send a PR with proper commit. If you find an issue please do report it :) </p>
